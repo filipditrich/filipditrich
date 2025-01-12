@@ -23,12 +23,6 @@
 </a>
 </p>
 
-[//]: # (<div align="center">)
-
-[//]: # (  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEw7PZqYMxkAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715701620391?e=1742428800&v=beta&t=dU7vyv6RD4hVRJ0846ixkT1GG-FUuIzMgSIdJZpH-rg" alt="NFCtron is the way!" />)
-
-[//]: # (</div>)
-
 I am a __Software & Product Engineer__, with a passion for building business-oriented software solutions with clean code & architecture, and value-driven product development 🫡.
 
 > 🔭 Currently, I'm being unstoppable as a __Chief Product Officer__ and Development Team Lead at [NFCtron](https://nfctron.com/en).
@@ -62,9 +56,7 @@ If you have ambitions to __grow__, __learn__ and __inspire others__, NFCtron is 
 - 💳 __NFCtron Nebula & Card Management System__: We have also acquired a Issuing license and will issue our own payment NFCtron cards. Is this your next challenge?
 - _...and many more exciting journeys ahead!_ 🏦 👀
 
-<img src="https://www.nfctron.com/data/blog/hr-mock.1733915983.jpg" alt="NFCtron Products" />
-
-> [!TIP]
+> [!NOTE]
 > 🌐 Check out our opportunities at [nfctron.com](https://nfctron.com/cs/kariera).
 
 
